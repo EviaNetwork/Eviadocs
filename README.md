@@ -6,7 +6,7 @@ description: Evia's Single Source of Truth
 
 <figure><img src=".gitbook/assets/Frame 47022132.png" alt=""><figcaption></figcaption></figure>
 
-## Intro to Evia
+## Intro to Evia!
 
 Evia, derived from the Greek word "εὐή," signifies "well-being" or "prosperity." Like a serene landscape, Evia embodies the essence of tranquility and abundance, where the elements of life harmonize.
 
