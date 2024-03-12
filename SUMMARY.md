@@ -31,6 +31,8 @@
 * [The Evia APY - The Math Behind Auto-Compounding](fundamentals/the-evia-apy-the-math-behind-auto-compounding.md)
 * [Authz Grants](fundamentals/authz-grants.md)
 * [Non-Custodial Staking](fundamentals/non-custodial-staking.md)
+* [Time-saving calculation](fundamentals/time-saving-calculation.md)
+* [Fees-saving calculation](fundamentals/fees-saving-calculation.md)
 
 ## Security
 
